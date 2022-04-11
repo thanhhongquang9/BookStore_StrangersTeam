@@ -18,7 +18,7 @@
                             <p class="about-us" style="color: #fff;"> Brought To You By <a href="./">shopping portal </a></p>
                             <div class="social-icons">
                                 <a href="" class='active'><i class="icon fa fa-facebook"></i></a>
-                                <a href="###"><i class="icon fa fa-github"></i></a>
+                                <a href="https://github.com/thanhhongquang9/BookStore_StrangersTeam"><i class="icon fa fa-github"></i></a>
                                 <a href="##"><i class="icon fa fa-instagram"></i></a>
                             </div>
                         </div>
