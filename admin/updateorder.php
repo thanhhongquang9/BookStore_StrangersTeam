@@ -59,8 +59,6 @@ if (strlen($_SESSION['alogin']) == 0) {
           while ($row = mysqli_fetch_array($ret)) {
           ?>
 
-
-
             <tr height="20">
               <td class="fontkink1"><b>At Date:</b></td>
               <td class="fontkink"><?php echo $row['postingDate']; ?></td>
