@@ -102,7 +102,6 @@ if (strlen($_SESSION['alogin']) == 0) {
                   </select>
                 </span></td>
             </tr>
-
             <tr>
               <td class="fontkink1">Remark:</td>
               <td class="fontkink" align="justify"><span class="fontkink">
