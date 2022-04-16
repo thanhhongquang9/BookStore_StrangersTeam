@@ -72,7 +72,6 @@ if (strlen($_SESSION['alogin']) == 0) {
               <td class="fontkink"><?php echo $row['remark']; ?></td>
             </tr>
 
-
             <tr>
               <td colspan="2">
                 <hr />
