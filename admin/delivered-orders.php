@@ -45,7 +45,7 @@ if (strlen($_SESSION['alogin']) == 0) {
 
 							<div class="module">
 								<div class="module-head">
-									<h3>Pending Orders</h3>
+									<h3>Delivered Orders</h3>
 								</div>
 								<div class="module-body table">
 									<?php if (isset($_GET['del'])) { ?>
