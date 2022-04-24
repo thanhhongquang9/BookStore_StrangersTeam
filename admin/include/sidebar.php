@@ -68,7 +68,6 @@
 			<li><a href="subcategory.php"><i class="menu-icon icon-tasks"></i>Sub Category </a></li>
 			<li><a href="insert-product.php"><i class="menu-icon icon-paste"></i>Insert Product </a></li>
 			<li><a href="manage-products.php"><i class="menu-icon icon-table"></i>Manage Products </a></li>
-			<li><a href="chart.php"><i class="menu-icon fa fa-bar-chart"></i>Chart Table </a></li>
 
 		</ul>
 		<!--/.widget-nav-->
