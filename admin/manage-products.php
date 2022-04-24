@@ -51,10 +51,7 @@ if (strlen($_SESSION['alogin']) == 0) {
 									<?php } ?>
 
 									<br />
-
-									<form action="pdf.php" method="POST">
-										<button style="margin: 10px;" type="submit" name="pdf_db" class="btn btn-success">PDF</button>
-									</form>
+									
 									<table cellpadding="0" cellspacing="0" border="0" class="datatable-1 table table-bordered table-striped	 display" width="100%">
 										<thead>
 											<tr>
@@ -87,8 +84,7 @@ if (strlen($_SESSION['alogin']) == 0) {
 												</tr>
 											<?php $cnt = $cnt + 1;
 											} ?>
-									</table>
-									<a style="margin: 10px;" class="btn btn-success" href="./chart/chart.php">Chart Product</a> 
+									</table> 
 									<a style="margin: 10px;" class="btn btn-success" href="./excel/products/excelproduct.php">Export</a>
 
 								</div>
